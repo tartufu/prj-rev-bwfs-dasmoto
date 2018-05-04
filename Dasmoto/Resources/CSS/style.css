@@ -1,0 +1,32 @@
+.dasmoto-title {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  color: khaki;
+  background-image: url(../images/pattern.jpeg);
+}
+
+.brushes-heading {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.frames-heading {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.paint-heading {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
